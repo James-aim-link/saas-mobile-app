@@ -6,6 +6,8 @@ web-build/
 # Local cache
 .tmp/
 .home/
+tmp/
+.npm/
 
 # npm
 npm-debug.log*
