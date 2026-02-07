@@ -1,0 +1,10 @@
+{
+    "welcome": "欢迎",
+    "signInToContinue": "请登录以继续！",
+    "email": "邮箱",
+    "password": "密码",
+    "signIn": "登录",
+    "loginSuccessful": "登录成功",
+    "loginFailed": "登录失败",
+    "enterEmailPassword": "请输入邮箱和密码"
+}

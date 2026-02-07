@@ -1,0 +1,10 @@
+{
+    "welcome": "Welcome",
+    "signInToContinue": "Sign in to continue!",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign in",
+    "loginSuccessful": "Login Successful",
+    "loginFailed": "Login failed",
+    "enterEmailPassword": "Please enter email and password"
+}
