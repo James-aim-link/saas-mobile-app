@@ -13,6 +13,7 @@ import HomeScreen from './src/screens/HomeScreen';
 import ProjectScreen from './src/screens/ProjectScreen';
 import ProfileScreen from './src/screens/ProfileScreen';
 import TaskListScreen from './src/screens/TaskListScreen';
+import TaskDetailScreen from './src/screens/TaskDetailScreen';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -36,6 +37,7 @@ function App() {
                         <Stack.Screen name="Login" component={LoginScreen} />
                         <Stack.Screen name="Main" component={MainTabNavigator} />
                         <Stack.Screen name="TaskList" component={TaskListScreen} />
+                        <Stack.Screen name="TaskDetail" component={TaskDetailScreen} />
                     </Stack.Navigator>
                 </NavigationContainer>
             </SafeAreaProvider>
